@@ -26,7 +26,7 @@ export default function Signup() {
   };
 
   const fields = [
-    { key: "name", label: "Full name", type: "text", placeholder: "Kanishk Gupta" },
+    { key: "name", label: "Full name", type: "text", placeholder: "John Doe" },
     { key: "email", label: "Email", type: "email", placeholder: "you@example.com" },
     { key: "password", label: "Password", type: "password", placeholder: "••••••••" },
   ];
